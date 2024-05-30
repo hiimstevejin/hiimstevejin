@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm currently studying to become software engineer. 
+### This summer, I'm studying basics of html css and javascript and frameworks.
 
 <!--
 **hiimstevejin/hiimstevejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
