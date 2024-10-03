@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm currently studying to become software engineer. 
+### I'm currently studying computer science. 
 ### This semester I'm studying Computer Systems and Organization and React
 
 <!--
