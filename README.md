@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm currently studying computer science. 
-### This semester I'm studying Computer Systems and Organization and React
+### I'm interested in Front End Development and I use React & Typescript
 
 <!--
 **hiimstevejin/hiimstevejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
