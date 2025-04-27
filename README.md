@@ -9,12 +9,6 @@
 
 - 📫 How to reach me **jingle5695@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sungyun-jin-0757292b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sungyun jin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sj3sj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sj3sj" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
