@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Steve</h1>
-<h3 align="center">A Fullstack Developer Studying in United States</h3>
+<h1>Hi 👋, I'm Steve</h1>
+<h3>A Fullstack Developer Studying in United States</h3>
 
 - 🔭 I’m currently working on [React Component Library](https://buttered-warbler-b55.notion.site/React-Component-Library-1cdbe6d87a8280d5ad5fde3ba66e3799)
 
