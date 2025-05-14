@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [React Component Library](https://buttered-warbler-b55.notion.site/React-Component-Library-1cdbe6d87a8280d5ad5fde3ba66e3799)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **AWS for AWS Certified Solutions Architect Associate**
 
 - 💬 Ask me about **React.js, Node.js**
 
