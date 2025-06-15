@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React.js, Node.js**
 
-- 📫 How to reach me **jingle5695@gmail.com**
+- 📫 How to reach me **jinjer5695@gmail.com**
 
 <h3 align="left">Languages:</h3>
 <p align="left">
