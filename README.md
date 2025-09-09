@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Steve</h1>
 <h3>Fullstack Developer Based in Charlottesville, Virginia</h3>
 
-- 🔭 I’m currently working on [Stock Sentiment Analyzer](https://github.com/hiimstevejin/stock-senti)
+- 🔭 I’m currently working at NovaCards as an intern
 
 - 🌱 I’m currently learning **AWS for AWS Certified Solutions Architect Associate**
 
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about **Next.js, React.js, Node.js**
 
 - 📫 How to reach me **jinjer5695@gmail.com**
 
