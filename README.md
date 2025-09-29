@@ -2,13 +2,9 @@
 
 <h3>Fullstack Developer and Computer Science Student at the University of Virginia </h3>
 
-🔭 I’m currently working as a Software Engineer Intern at 
+🔭 I’m currently working as a Software Engineer Intern at NovaCards.
 
-NovaCards.
-
-🌱 I’m currently learning and working with cloud technologies like 
-
-AWS.
+🌱 I’m currently learning and working with cloud technologies like AWS.
 
 💬 Ask me about Next.js, React, Python (Django, Flask), and building full-stack applications.
 
